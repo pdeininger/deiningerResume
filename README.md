@@ -10,21 +10,17 @@
 
 Energetic and successful product development professional with expertise in financial services including sales development, sales team leadership and project management.  Adept to communicating key data to individuals from varied backgrounds levels. Able to manage deadline driven projects, resolve issues and build lasting partnerships with community organizations.  Key skills include: 
 
- 
 
                    • Process Management		 • Training and Facilitation		•Avaya Telecom Systems 
 
                    • Project Management 		 • SalesForce.com			• NICE Universe 
 
- 
 
 ### ALL RISKS, LTD, Richmond, VA						May 2019-Present 
 
 #### Underwriting Manager 
 
 Coached a team of Personal Lines Underwriters on proactive, outbound sales calling.  Leveraging historical sales data and current market opportunities, created call campaigns focused on corporate strategy and profitability. 
-
- 
 
 ### GENWORTH FINANCIAL, Richmond, VA	2012- May 2019 
 
@@ -68,10 +64,6 @@ Cultivated relationships with investment representatives from banks and independ
 
 Managed client data base of 500+ producing brokers and financial planners while developing new relationships. 
 
-Pam Deininger                    	Page Two 
-
- 
-
 ### SNAGAJOB, RICHMOND, VA	2011 
 
 #### Manager, Franchise Small to Medium Businesses (FSMB) Sales Team 
@@ -104,23 +96,17 @@ University of Richmond
 
 Human Resources Management 
 
- 
-
 ### CERTIFICATIONS 
 
 Six Sigma, Green Belt Certification 
 
 Myers Briggs Type Indicator Facilitation Certification 
 
- 
-
 ### LICENSES 
 
 Virginia Life & Health 
 
 Virginia Property & Casualty 
-
- 
 
 ### TRAINING 
 
@@ -131,8 +117,6 @@ Sequoia Sales Training
 Fusion: Ready, Set, GO and Presenting with Impact 
 
 Genworth Financial Building Essential Leadership Course & Leadership Academy 
-
- 
 
 ### COMMUNITY RELATIONS 
 
