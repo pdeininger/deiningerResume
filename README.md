@@ -1,34 +1,34 @@
 # deiningerResume
 
-PAM DEININGER 
+                                              # PAM DEININGER 
 
-Richmond, VA 23229 · (804) 687-9982 
+                                       ### Richmond, VA 23229 · (804) 687-9982 
 
-pameladeininger@gmail.com ·  linkedin.com/in/pameladeininger 
+                          ### pameladeininger@gmail.com ·  linkedin.com/in/pameladeininger 
 
-PROCESS MANAGER 
+#### PROCESS MANAGER 
 
 Energetic and successful product development professional with expertise in financial services including sales development, sales team leadership and project management.  Adept to communicating key data to individuals from varied backgrounds levels. Able to manage deadline driven projects, resolve issues and build lasting partnerships with community organizations.  Key skills include: 
 
  
 
-• Process Management		 • Training and Facilitation		•Avaya Telecom Systems 
+                   • Process Management		 • Training and Facilitation		•Avaya Telecom Systems 
 
-• Project Management 		 • SalesForce.com			• NICE Universe 
+                   • Project Management 		 • SalesForce.com			• NICE Universe 
 
  
 
-ALL RISKS, LTD, Richmond, VA						May 2019-Present 
+### ALL RISKS, LTD, Richmond, VA						May 2019-Present 
 
-Underwriting Manager 
+#### Underwriting Manager 
 
 Coached a team of Personal Lines Underwriters on proactive, outbound sales calling.  Leveraging historical sales data and current market opportunities, created call campaigns focused on corporate strategy and profitability. 
 
  
 
-GENWORTH FINANCIAL, Richmond, VA	2012- May 2019 
+### GENWORTH FINANCIAL, Richmond, VA	2012- May 2019 
 
-Product Development Manager, (2018-Present) 
+#### Product Development Manager, (2018-Present) 
 
 Managed data tracking and reporting for Long Term Care (Individual and Group), Life Insurance and Annuities including filing and state approval status, forms updates as well as industry specific requirements. 
 
@@ -38,7 +38,7 @@ Analyzed and aggregated product specifics, including attributes and state specif
 
 Supported Product team in partnering with Project Managers and Ops/IT resources to translate product specifications into business requirements needed for system implementation. 
 
-Account Consultant, (2016- 2018) 
+#### Account Consultant, (2016- 2018) 
 
 Oversaw successful implementation of Group Long Term Care large accounts including broker and client set up, migrations, enrollment meetings, and overall participation. 
 
@@ -50,7 +50,7 @@ Transitioned existing groups to new product platform.
 
 Conducted campaign analysis and provide metrics reporting to both internal and external customers. 
 
-Sales Learning & Development Coach, (2014- 2015) 
+#### Sales Learning & Development Coach, (2014- 2015) 
 
 Analyzed, developed and delivered sales and product training curriculum for internal and external customers using various media. 
 
@@ -60,7 +60,7 @@ Leveraged adult learning methodologies including ADDIE to develop, implement and
 
 Created training modules using Microsoft PowerPoint and Articulate Storyline as delivery mechanisms along with GoTo Meetings and GoTo Webinars. 
 
-Internal Wholesaler, (2012-2014) 
+#### Internal Wholesaler, (2012-2014) 
 
 Partnered with external sales associates to successfully exceed fixed annuity sales by over 100%  
 
@@ -72,9 +72,9 @@ Pam Deininger                    	Page Two
 
  
 
-SNAGAJOB, RICHMOND, VA	2011 
+### SNAGAJOB, RICHMOND, VA	2011 
 
-Manager, Franchise Small to Medium Businesses (FSMB) Sales Team 
+#### Manager, Franchise Small to Medium Businesses (FSMB) Sales Team 
 
  Implemented corporate strategy by creating and managing sales processes toward goals with a team of 18 Account Executives  
 
@@ -84,9 +84,9 @@ Reviewed sales performance and process with ongoing training based on a team and
 
 Created reporting system to effectively monitor performance and providing a feedback structure. 
 
-GENWORTH FINANCIAL, RICHMOND, VA	2006- 2011 
+### GENWORTH FINANCIAL, RICHMOND, VA	2006- 2011 
 
-Internal Sales Team Leader  
+#### Internal Sales Team Leader  
 
 Effectively communicated corporate strategy and created measurements as well as feedback and training structures for continued team and individual development  
 
@@ -98,7 +98,7 @@ Collaborated with sales leaders to develop a measurement system aligning product
 
 Coordinated cross-functional teams to implement curriculum, structure and measurement system for Internal Wholesaling Intern project 
 
-EDUCATION 
+### EDUCATION 
 
 University of Richmond 
 
@@ -106,7 +106,7 @@ Human Resources Management
 
  
 
-CERTIFICATIONS 
+### CERTIFICATIONS 
 
 Six Sigma, Green Belt Certification 
 
@@ -114,7 +114,7 @@ Myers Briggs Type Indicator Facilitation Certification
 
  
 
-LICENSES 
+### LICENSES 
 
 Virginia Life & Health 
 
@@ -122,7 +122,9 @@ Virginia Property & Casualty
 
  
 
-TRAINING 
+### TRAINING 
+
+Full Stack Development Bootcamp 
 
 Sequoia Sales Training  
 
@@ -132,7 +134,7 @@ Genworth Financial Building Essential Leadership Course & Leadership Academy
 
  
 
-COMMUNITY RELATIONS 
+### COMMUNITY RELATIONS 
 
 Project: HOMES Liaison  
 
