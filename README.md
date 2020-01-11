@@ -1,10 +1,10 @@
 # deiningerResume
 
-                                              # PAM DEININGER 
+                                              PAM DEININGER 
 
-                                       ### Richmond, VA 23229 · (804) 687-9982 
+                                       Richmond, VA 23229 · (804) 687-9982 
 
-                          ### pameladeininger@gmail.com ·  linkedin.com/in/pameladeininger 
+                           pameladeininger@gmail.com ·  linkedin.com/in/pameladeininger 
 
 #### PROCESS MANAGER 
 
